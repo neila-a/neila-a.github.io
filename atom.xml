@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>neil</title>
+  <title>neila</title>
   
   <subtitle>一个大好（huai）人</subtitle>
   <link href="https://www.neila.gq/atom.xml" rel="self"/>
@@ -10,7 +10,7 @@
   <id>https://www.neila.gq/</id>
   
   <author>
-    <name>neil</name>
+    <name>neila</name>
     
   </author>
   
