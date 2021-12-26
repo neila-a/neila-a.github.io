@@ -4,6 +4,25 @@
   
     
     <entry>
+      <title>Hexo下Yun主题添加侧边栏（全网最详细）（只限Yun主题）</title>
+      <link href="/2021/12/26/Hexo%E4%B8%8BYun%E4%B8%BB%E9%A2%98%E6%B7%BB%E5%8A%A0%E4%BE%A7%E8%BE%B9%E6%A0%8F%EF%BC%88%E5%85%A8%E7%BD%91%E6%9C%80%E8%AF%A6%E7%BB%86%EF%BC%89%EF%BC%88%E5%8F%AA%E9%99%90Yun%E4%B8%BB%E9%A2%98%EF%BC%89/"/>
+      <url>/2021/12/26/Hexo%E4%B8%8BYun%E4%B8%BB%E9%A2%98%E6%B7%BB%E5%8A%A0%E4%BE%A7%E8%BE%B9%E6%A0%8F%EF%BC%88%E5%85%A8%E7%BD%91%E6%9C%80%E8%AF%A6%E7%BB%86%EF%BC%89%EF%BC%88%E5%8F%AA%E9%99%90Yun%E4%B8%BB%E9%A2%98%EF%BC%89/</url>
+      
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><h1 id="添加"><a href="#添加" class="headerlink" title="添加"></a>添加</h1><ol><li>找到themes/yun/source/js/下的sidebar.js文件。</li><li>打开它。</li><li>翻到最底下。</li><li>复制以下代码：<figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">/** 显示人生倒计时 */</span><br><span class="line">document.write(&quot;&lt;iframe src=&#x27;https://neila-a.github.io/countdown.js/&#x27; height=&#x27;300px&#x27;&gt;&lt;/iframe&gt;&quot;);</span><br></pre></td></tr></table></figure></li><li>粘贴到最底下。</li><li>重新启动hexo即可。<h1 id="效果"><a href="#效果" class="headerlink" title="效果"></a>效果</h1>我的侧栏就是了。</li></ol>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> Hexo </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>littlechicken</title>
       <link href="/2021/11/28/littlechicken/"/>
       <url>/2021/11/28/littlechicken/</url>
