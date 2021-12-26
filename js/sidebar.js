@@ -3,6 +3,7 @@
  * toggle sidebar nav and panel
  * @author YunYouJun <me@yunyoujun.cn>
  * @description https://github.com/YunYouJun/hexo-theme-yun
+ * @editor neila <neilaspace@outlook.com
  */
 
 /**
@@ -140,7 +141,7 @@ function initSidebar() {
           .classList.remove(activeTabClass);
         this.classList.add(activeTabClass);
       };
-    });
+    }); 
   }
 
   toggleTocNumber();
@@ -150,3 +151,5 @@ function initSidebar() {
 
 document.addEventListener("DOMContentLoaded", initSidebar);
 document.addEventListener("pjax:success", initSidebar);
+/** 显示人生倒计时 */
+document.write("<iframe src='https://neila-a.github.io/countdown.js/' height='300px'></iframe>");               
