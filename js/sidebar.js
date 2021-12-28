@@ -152,4 +152,4 @@ function initSidebar() {
 document.addEventListener("DOMContentLoaded", initSidebar);
 document.addEventListener("pjax:success", initSidebar);
 /** 显示人生倒计时 */
-document.write("<iframe src='https://lifetime-countdown.js.org/' height='300px'></iframe>");               
+document.write("<iframe src='https://lifetime-countdown.js.org/' height='280px'></iframe>");               
