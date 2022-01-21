@@ -4,9 +4,9 @@
   
     
     <entry>
-      <title>Hexo下Yun主题添加侧边栏（全网最详细）（只限Yun主题）</title>
-      <link href="/2021/12/26/Hexo%E4%B8%8BYun%E4%B8%BB%E9%A2%98%E6%B7%BB%E5%8A%A0%E4%BE%A7%E8%BE%B9%E6%A0%8F%EF%BC%88%E5%85%A8%E7%BD%91%E6%9C%80%E8%AF%A6%E7%BB%86%EF%BC%89%EF%BC%88%E5%8F%AA%E9%99%90Yun%E4%B8%BB%E9%A2%98%EF%BC%89/"/>
-      <url>/2021/12/26/Hexo%E4%B8%8BYun%E4%B8%BB%E9%A2%98%E6%B7%BB%E5%8A%A0%E4%BE%A7%E8%BE%B9%E6%A0%8F%EF%BC%88%E5%85%A8%E7%BD%91%E6%9C%80%E8%AF%A6%E7%BB%86%EF%BC%89%EF%BC%88%E5%8F%AA%E9%99%90Yun%E4%B8%BB%E9%A2%98%EF%BC%89/</url>
+      <title>Hexo下Yun主题侧边栏添加人生倒计时（全网最详细）（只限Yun主题）</title>
+      <link href="/archives/Hexo%E4%B8%8BYun%E4%B8%BB%E9%A2%98%E4%BE%A7%E8%BE%B9%E6%A0%8F%E6%B7%BB%E5%8A%A0%E4%BA%BA%E7%94%9F%E5%80%92%E8%AE%A1%E6%97%B6%EF%BC%88%E5%85%A8%E7%BD%91%E6%9C%80%E8%AF%A6%E7%BB%86%EF%BC%89%EF%BC%88%E5%8F%AA%E9%99%90Yun%E4%B8%BB%E9%A2%98%EF%BC%89/"/>
+      <url>/archives/Hexo%E4%B8%8BYun%E4%B8%BB%E9%A2%98%E4%BE%A7%E8%BE%B9%E6%A0%8F%E6%B7%BB%E5%8A%A0%E4%BA%BA%E7%94%9F%E5%80%92%E8%AE%A1%E6%97%B6%EF%BC%88%E5%85%A8%E7%BD%91%E6%9C%80%E8%AF%A6%E7%BB%86%EF%BC%89%EF%BC%88%E5%8F%AA%E9%99%90Yun%E4%B8%BB%E9%A2%98%EF%BC%89/</url>
       
         <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><h1 id="添加"><a href="#添加" class="headerlink" title="添加"></a>添加</h1><ol><li>找到themes/yun/source/js/下的sidebar.js文件。</li><li>打开它。</li><li>翻到最底下。</li><li>复制以下代码：<figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">/** 显示人生倒计时 */</span><br><span class="line">document.write(&quot;&lt;iframe src=&#x27;https://lifetime-countdown.js.org/&#x27; height=&#x27;280px&#x27;&gt;&lt;/iframe&gt;&quot;);</span><br></pre></td></tr></table></figure></li><li>粘贴到最底下。</li><li>重新启动hexo即可。<h1 id="效果"><a href="#效果" class="headerlink" title="效果"></a>效果</h1>我的侧栏就是了。</li></ol>]]></content>
       
@@ -24,8 +24,8 @@
     
     <entry>
       <title>littlechicken</title>
-      <link href="/2021/11/28/littlechicken/"/>
-      <url>/2021/11/28/littlechicken/</url>
+      <link href="/archives/littlechicken/"/>
+      <url>/archives/littlechicken/</url>
       
         <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><iframe src="https://neilas-github.github.io/webfile/littenchicken.html"></iframe>]]></content>
       
@@ -37,8 +37,8 @@
     
     <entry>
       <title>Freenom的使用</title>
-      <link href="/2021/09/01/Freenom%E7%9A%84%E4%BD%BF%E7%94%A8/"/>
-      <url>/2021/09/01/Freenom%E7%9A%84%E4%BD%BF%E7%94%A8/</url>
+      <link href="/archives/Freenom%E7%9A%84%E4%BD%BF%E7%94%A8/"/>
+      <url>/archives/Freenom%E7%9A%84%E4%BD%BF%E7%94%A8/</url>
       
         <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><blockquote><p>Freenom是世界上唯一一家免费域名注册的地方——反正官网是这么说的</p></blockquote><h1 id="注册"><a href="#注册" class="headerlink" title="注册"></a>注册</h1><p><a href="https://www.freenom.com/zh/index.html?lang=zh">这里！</a><br>请注意：它没有被和谐的呀，只是有(fei)点(chang)慢，欸嘿！<br><a href="https://imgtu.com/i/hsKdnU"><img src="https://z3.ax1x.com/2021/09/02/hsKdnU.png" alt="hsKdnU.png" loading="lazy"></a><br>然后点“登入”！<br><del>输入密码就不用我说了吧</del><br>dala！就注册了  </p><h1 id="域名"><a href="#域名" class="headerlink" title="域名"></a>域名</h1><p>登录之后返回<a href="https://www.freenom.com/zh/index.html?lang=zh">这里！</a> <del>在这里说一下，明明很多人没有熟悉他呀，而且真的好慢！</del><br>然后输入域名查找之后获取吧！（注意点12 Years $Free）<br>dala！就好了</p><h2 id="DNS配置"><a href="#DNS配置" class="headerlink" title="DNS配置"></a>DNS配置</h2><p>Freenom不能使用CNAME呢！<del>怎么办？我当然会告诉你的！</del><br>可以用<a href="//dns.he.net">HE.net-一个好东西！</a><br>然后再在左边注册！<br>这个时候，点击左边的Add a new domain就好了！<br>添加了之后点击<img src="https://dns.he.net/include/images/pencil.png" alt="png" loading="lazy"><br>添加CNAME就好了！</p><h1 id="结尾"><a href="#结尾" class="headerlink" title="结尾"></a>结尾</h1><p>呼，终于写完了，欸嘿嘿嘿嘿！<br>怎么样，<a href="https://www.freenom.com/zh/index.html?lang=zh">Freenom</a>是不是一个好东西？<del>我觉得是欸</del></p>]]></content>
       
@@ -50,8 +50,8 @@
     
     <entry>
       <title>空调房</title>
-      <link href="/2021/08/31/%E7%A9%BA%E8%B0%83%E6%88%BF/"/>
-      <url>/2021/08/31/%E7%A9%BA%E8%B0%83%E6%88%BF/</url>
+      <link href="/archives/%E7%A9%BA%E8%B0%83%E6%88%BF/"/>
+      <url>/archives/%E7%A9%BA%E8%B0%83%E6%88%BF/</url>
       
         <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>夏天到了，大坏蛋居然只能在没有空调的地方！！！为此，我们给他安装了一个空调。</p><iframe height="740" src="https://ac.yunyoujun.cn"></iframe>啊对了，这个空调是别人做的，它是我花了好的价钱买回来的呢！]]></content>
       
@@ -63,8 +63,8 @@
     
     <entry>
       <title>我的第二篇文章</title>
-      <link href="/2021/08/31/%E6%88%91%E7%9A%84%E7%AC%AC%E4%BA%8C%E7%AF%87%E6%96%87%E7%AB%A0/"/>
-      <url>/2021/08/31/%E6%88%91%E7%9A%84%E7%AC%AC%E4%BA%8C%E7%AF%87%E6%96%87%E7%AB%A0/</url>
+      <link href="/archives/%E6%88%91%E7%9A%84%E7%AC%AC%E4%BA%8C%E7%AF%87%E6%96%87%E7%AB%A0/"/>
+      <url>/archives/%E6%88%91%E7%9A%84%E7%AC%AC%E4%BA%8C%E7%AF%87%E6%96%87%E7%AB%A0/</url>
       
         <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>欸嘿嘿嘿！</p><p>当啷！大坏蛋来了。这是他的第二篇Hexo文章。我们要把大坏蛋赶走才行！以下是大坏蛋说的话：  </p><p>“嘿嘿嘿！我这次没有用初始文章，厉害吧？%……&amp;#￥@！（&amp;……56￥3e#^”  </p><p>好了，大坏蛋说完了。但是，大坏蛋是怎么创建这篇文章的嫩？请跟随记者的报道：  </p><p><del>“这里的情况就是这样。”</del>   </p><p>啊不对，刚才呢个是懒惰的记者。重新来！  </p><p>记者：“他使用了</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">hexo new</span><br></pre></td></tr></table></figure><p>，注意不是</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">hexo post new</span><br></pre></td></tr></table></figure><p>！”  </p><p><del>今天的报道就是这样，下次再见。</del></p>]]></content>
       
@@ -76,8 +76,8 @@
     
     <entry>
       <title>Hello World</title>
-      <link href="/1970/01/01/hello-world/"/>
-      <url>/1970/01/01/hello-world/</url>
+      <link href="/archives/hello-world/"/>
+      <url>/archives/hello-world/</url>
       
         <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>欢迎来到<a href="https://neila.gq/">neilas blog</a>! 这是我的第一篇文章。检查<a href="https://hexo.io/docs/">文件</a>更多信息。如果我在使用Hexo时遇到任何问题，可以在<a href="https://hexo.io/docs/troubleshooting.html">故障排除</a>中找到答案或者你可以在<a href="https://github.com/hexojs/hexo/issues">GitHub</a>上问Hexo官方.</p><h2 id="快速启动"><a href="#快速启动" class="headerlink" title="快速启动"></a>快速启动</h2><h3 id="创建新帖子"><a href="#创建新帖子" class="headerlink" title="创建新帖子"></a>创建新帖子</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;我的新帖子&quot;</span></span><br></pre></td></tr></table></figure><p>更多信息：<a href="https://hexo.io/docs/writing.html">写作</a></p><h3 id="运行本地服务器"><a href="#运行本地服务器" class="headerlink" title="运行本地服务器"></a>运行本地服务器</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo s</span><br></pre></td></tr></table></figure><p>更多信息：<a href="https://hexo.io/docs/server.html">服务器</a></p><h3 id="生成静态文件"><a href="#生成静态文件" class="headerlink" title="生成静态文件"></a>生成静态文件</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo g</span><br></pre></td></tr></table></figure><p>更多信息：<a href="https://hexo.io/docs/generating.html">正在生成</a></p><h3 id="部署到远程站点"><a href="#部署到远程站点" class="headerlink" title="部署到远程站点"></a>部署到远程站点</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo d</span><br></pre></td></tr></table></figure><p>更多信息：<a href="https://hexo.io/docs/one-command-deployment.html">部署</a></p>]]></content>
       
