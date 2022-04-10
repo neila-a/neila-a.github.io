@@ -141,7 +141,7 @@ function initSidebar() {
           .classList.remove(activeTabClass);
         this.classList.add(activeTabClass);
       };
-    }); 
+    });
   }
 
   toggleTocNumber();
@@ -152,4 +152,23 @@ function initSidebar() {
 document.addEventListener("DOMContentLoaded", initSidebar);
 document.addEventListener("pjax:success", initSidebar);
 /** 显示人生倒计时 */
-document.write("<iframe src='https://lifetime-countdown.js.org/' height='280px'></iframe>");               
+document.write(`
+  <iframe 
+    src='https://lifetime-countdown.js.org/' 
+    height='263px'>
+  </iframe>
+  <br>
+  <p>
+    您是本站的第
+    <a 
+      href="https://www.mfwztj.com/" 
+      target="_blank">
+      <img 
+        src="https://www.mfwztj.com/hit.php?id=zrexonx&nd=1&style=71" 
+        border="0" 
+        alt="免费计数器"
+      />
+    </a>
+    位访客。
+  `
+);               
